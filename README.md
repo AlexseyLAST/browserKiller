@@ -6,6 +6,6 @@
 
 из постоянного вывода в консоль "err" браузер перестает работать (моё объяснение такое, может это не так)
 
-https://alexseylast.github.io/browserKiller/
+https://alexseylast.github.io/browserKiller/ (ссылка самого "browserKiller")
 
 на мобильных устройствах, "browserKiller" работает иначе!
