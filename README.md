@@ -9,5 +9,6 @@
 https://alexseylast.github.io/browserKiller/ (ссылка самого "browserKiller")
 
 на мобильных устройствах, "browserKiller" работает иначе!
+
 ![photo_5433802051361554472_y](https://user-images.githubusercontent.com/100422108/201076158-b0ead0f0-877d-4bfc-baee-5fc6cc3d6e46.jpg)
 
